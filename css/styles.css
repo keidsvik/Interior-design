@@ -1,5 +1,27 @@
-.img {
-  height: 100;
-  width: 100;
-  overflow: none;
+
+div {
+    column: 1;
+    float: right;
+    width: 100%;
+    padding: 5px;
+    display: block;
+}
+
+img {
+    float: right;
+    clear: right;
+
+}
+
+body {
+  background-color: salmon;
+}
+
+p {
+  font-family: sans-serif;
+  text-align: left;
+}
+
+h1 {
+  text align: right;
 }
